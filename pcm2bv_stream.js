@@ -1,4 +1,4 @@
-const m=require("./Pcm2BV.js");
+const m=require("./Pcm2Bv.js");
 const Readable = require('stream').Readable;
 const path = require("path");
 const ROOT_PATH = path.resolve(__dirname);
